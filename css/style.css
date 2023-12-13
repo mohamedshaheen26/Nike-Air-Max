@@ -17,7 +17,7 @@ body {
 
 .container {
   height: 100vh;
-  padding: 0 120px;
+  padding: 0 145px;
   background: #fffcf5;
   background: url("/img/Rectangle.png");
 }
@@ -68,11 +68,13 @@ body {
   color: #d55d3f;
   font-size: 60px;
   font-weight: 600;
+  margin-bottom: 10px;
 }
 
 .content .header p {
   color: #333;
   font-size: 17px;
+  margin-bottom: 30px;
 }
 
 .content .header .cart .btn {
@@ -84,4 +86,6 @@ body {
   background: #d55d3f;
   color: #fff;
   font-size: 21px;
+  border: 0;
+  cursor: pointer;
 }
